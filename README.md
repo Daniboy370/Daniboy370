@@ -2,7 +2,7 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370) 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Gmail Badge](https://img.shields.io/badge/-Daniboy370@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Daniel.eng@campus.technion.ac.il) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Gmail Badge](https://img.shields.io/badge/-Daniboy370@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Daniel.eng@campus.technion.ac.il) 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Engelsman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-engelsman/)](https://www.linkedin.com/in/daniel-engelsman/) 
 [![](https://img.shields.io/badge/🌠-Kaggle-brightgreen)](https://www.kaggle.com/daniboy370)
 
