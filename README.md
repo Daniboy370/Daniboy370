@@ -1,5 +1,5 @@
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370&show_icons=true&theme=radical)) 
 <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
