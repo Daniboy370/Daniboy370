@@ -1,6 +1,4 @@
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370&show_icons=true&theme=radical)) 
-<br/>
+https://github-readme-stats.vercel.app/api?username=[Daniboy370]
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Engelsman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-engelsman/)](https://www.linkedin.com/in/daniel-engelsman/) 
