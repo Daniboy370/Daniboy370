@@ -1,4 +1,4 @@
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Daniboy370&show_icons=true&theme=gruvbox)
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
