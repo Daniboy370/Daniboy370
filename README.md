@@ -1,15 +1,6 @@
-<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=daniboy370) -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniboy370)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=daniboy370&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Daniboy370's Github stats" />
-</a> -->
-
 <!-- </a> USE THE CODE BELOW AS IT ADDS MORE COUNTS TO THE USER !!! -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=daniboy370&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=gruvbox" alt="Daniboy370's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=daniboy370&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=buefy" alt="Daniboy370's GitHub Stats" />
 </a>
 
 <!-- ![Daniboy370's GitHub stats](https://github-readme-stats-git-daniboy370.vercel.app/api?username=daniboy370&show_icons=true&theme=radical) -->
