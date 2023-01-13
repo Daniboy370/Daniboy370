@@ -9,7 +9,7 @@
 
 <!-- </a> USE THE CODE BELOW AS IT ADDS MORE COUNTS TO THE USER !!! -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=daniboy370&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=merko&bg_color=000000#gh-light-mode-only" alt="Daniboy370's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=daniboy370&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=gruvbox" alt="Daniboy370's GitHub Stats" />
 </a>
 
 <!-- ![Daniboy370's GitHub stats](https://github-readme-stats-git-daniboy370.vercel.app/api?username=daniboy370&show_icons=true&theme=radical) -->
