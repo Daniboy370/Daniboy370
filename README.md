@@ -11,3 +11,5 @@
 [![](https://img.shields.io/badge/🌠-Kaggle-brightgreen)](https://www.kaggle.com/daniboy370)
 
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif?itemid=4691438' width=240 />
+
+*"Nowadays, for most people, the right to learn is prevented by the obligation to attend school", Ivan Illich.*
